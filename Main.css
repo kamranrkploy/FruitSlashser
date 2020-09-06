@@ -1,0 +1,112 @@
+html{
+    background: radial-gradient(#1000,#000011);
+    
+/*        background:radial-gradient(#187,#001);*/
+/*    background-image: url(img/wooden_solid_dark_brown_9665_1920x1080.jpg);*/
+/*        background-image:url(img/Pictures-Background-Full-HD.png);*/
+
+
+    
+    
+
+    height:100%;
+}
+#menuBox{
+    width: 600px;
+    height: 500px;
+    margin: 135px auto;
+/*    background-image:url(img/Pictures-Background-Full-HD.png);*/
+/*     background-image: url(img/65892.jpg);*/
+        background-image:url(img/Pictures-Background-Full-HD.png);
+    border-image-width: 600px;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    position: relative;
+}
+
+#start{
+    position: absolute;
+    left: 35%;
+    margin-top: 140px;
+    padding: 4px;
+    width:180px ;
+    height: 40px;
+    border-radius: 8px;
+    background: #f10130;    
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: monospace;
+}
+#welcome{
+    position: absolute;
+    left: 24%;
+    margin-top: 12px;
+    font-size: 50px;
+    font-family:cursive;
+    color:lightcoral;
+    text-shadow: 5px 1px black;
+}
+
+#Help{
+    position: absolute;
+    left: 5%;
+    margin-top: 260px;
+    padding: 2px;
+    width:180px ;
+    height: 40px;
+    border-radius: 8px;
+/*    background: #f10130;    */
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: monospace;
+}
+   #About{
+    position: absolute;
+    left: 65%;
+    margin-top: 260px;
+    padding: 2px;
+    width:180px ;
+    height: 40px;
+    border-radius: 8px;
+/*    background: #f10130;    */
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: monospace;
+}
+#info1{   
+            background:radial-gradient(grey,black);
+            color: antiquewhite;
+            font-family: monospace;
+        }
+#info2{   
+            background:radial-gradient(grey,black);
+            color: antiquewhite;
+            font-family: monospace;
+        }
+#quit{
+    position: absolute;
+    left: 35%;
+    margin-top: 400px;
+    padding: 2px;
+    width:180px ;
+    height: 40px;
+    border-radius: 8px;
+    background: #f10130;    
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    color: aliceblue;
+    font-family: monospace;
+     
+}
+    
